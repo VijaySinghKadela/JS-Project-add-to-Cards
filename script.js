@@ -50,6 +50,8 @@ function addProduct(){
    })
 }
 addProduct()
+
+
 function addPopulerProduct(){
    let clutter  = '';
    popular.forEach(function(product){
